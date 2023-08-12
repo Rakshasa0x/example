@@ -2,8 +2,8 @@ body{
 background-color: pink;
 }
 
-<!-- HTML !-->
-<button class="button-24" role="button">Button 24</button>
+a{
+  text-decoration: none;}
 
 /* CSS */
 .button-24 {
